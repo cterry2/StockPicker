@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list version="1.0">
+<meta>
+<type>resource-list</type>
+</meta>
+<resources count="2" start="0">
+<resource classname="Quote">
+<field name="name">Google Inc.</field>
+<field name="price">527.580017</field>
+<field name="symbol">GOOG</field>
+<field name="ts">1423170000</field>
+<field name="type">equity</field>
+<field name="utctime">2015-02-05T21:00:00+0000</field>
+<field name="volume">1844687</field>
+</resource><resource classname="Quote">
+<field name="name">Apple Inc.</field>
+<field name="price">119.940002</field>
+<field name="symbol">AAPL</field>
+<field name="ts">1423170000</field>
+<field name="type">equity</field>
+<field name="utctime">2015-02-05T21:00:00+0000</field>
+<field name="volume">42246245</field>
+</resource></resources>
+</list>
